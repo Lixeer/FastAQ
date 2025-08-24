@@ -30,3 +30,5 @@ coverage
 *.tsbuildinfo
 
 FastAQ.Core/obj/*
+FastAQ.Core/appsettings.json
+
